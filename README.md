@@ -1,3 +1,5 @@
+# Disclaimer
+Copyright infringement was not intended, it is for educational purposes only
 # SMB3-assembly-code
 Assembly code of super mario bros 3
 # How?
